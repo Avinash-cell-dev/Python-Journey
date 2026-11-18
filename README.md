@@ -1,1 +1,1 @@
-# practice-python
+# Python Journey
