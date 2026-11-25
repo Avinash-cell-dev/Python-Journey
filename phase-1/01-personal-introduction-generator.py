@@ -1,1 +1,11 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+city=input("Enter your city: ")
+field=input("Enter your field: ")
+hobby=input("Enter your hobby: ")
 
+print("--------------------------")
+print("Hello! My name is", name)
+print("I am", age, "years old and I live in", city)
+print("I am studying", field)
+print("My hobby is", hobby)
